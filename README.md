@@ -2,7 +2,7 @@
 godocker
 
 ### Web
-Hello world!
+A simple website "Hello World" base on golang gin.
 
 ### Docker
-With a dockerfile settings intergrated with Golang gin website.
+With a dockerfile intergrated with Golang gin website.
